@@ -1,0 +1,43 @@
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\C969 Project.exe.config
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\C969 Project.exe
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\C969 Project.pdb
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\obj\Debug\C969 Project.csproj.AssemblyReference.cache
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\obj\Debug\C969_Project.Properties.Resources.resources
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\obj\Debug\C969 Project.csproj.GenerateResource.cache
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\obj\Debug\C969 Project.csproj.CoreCompileInputs.cache
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\obj\Debug\C969 Project.exe
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\obj\Debug\C969 Project.pdb
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\obj\Debug\C969_Project.landingPage.resources
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\Google.Protobuf.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\MySql.Data.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Buffers.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Memory.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\ZstdSharp.dll
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\Google.Protobuf.pdb
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\Google.Protobuf.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\MySql.Data.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Buffers.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Memory.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\obj\Debug\C969 Project.csproj.CopyComplete
+C:\Users\Irremotus\Documents\School\C969\Project\C969 Project\C969 Project\obj\Debug\C969_Project.loginPage.resources
